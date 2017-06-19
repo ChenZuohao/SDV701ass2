@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms", "WinForms\WinForms.csproj", "{097E4D8A-C391-4909-B788-6B9BE755431F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalWindows", "UniversalWindows\UniversalWindows.csproj", "{075AA3AE-DF68-42C3-A411-6EFFBAE4F8DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDVASS2Selfhost", "SDVASS2Selfhost\SDVASS2Selfhost.csproj", "{1F973891-7692-4AEA-970F-787EB5B138BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{097E4D8A-C391-4909-B788-6B9BE755431F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097E4D8A-C391-4909-B788-6B9BE755431F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097E4D8A-C391-4909-B788-6B9BE755431F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097E4D8A-C391-4909-B788-6B9BE755431F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{075AA3AE-DF68-42C3-A411-6EFFBAE4F8DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{075AA3AE-DF68-42C3-A411-6EFFBAE4F8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{075AA3AE-DF68-42C3-A411-6EFFBAE4F8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{075AA3AE-DF68-42C3-A411-6EFFBAE4F8DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F973891-7692-4AEA-970F-787EB5B138BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F973891-7692-4AEA-970F-787EB5B138BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F973891-7692-4AEA-970F-787EB5B138BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F973891-7692-4AEA-970F-787EB5B138BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
